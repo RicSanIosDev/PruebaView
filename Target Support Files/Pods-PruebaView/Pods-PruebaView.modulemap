@@ -1,0 +1,6 @@
+framework module Pods_PruebaView {
+  umbrella header "Pods-PruebaView-umbrella.h"
+
+  export *
+  module * { export * }
+}
